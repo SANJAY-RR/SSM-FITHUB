@@ -123,10 +123,6 @@ http://localhost/SSM-FITHUB/
 
 ---
 
-## 📸 Screenshots
-
-_Add project screenshots here later._
-
 ---
 
 ## 🔮 Future Enhancements
