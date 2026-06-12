@@ -137,7 +137,7 @@ http://localhost/SSM-FITHUB/
 
 ## 👨‍💻 Developed By
 
-**Saravanan R**  
+**Sanjay R**  
 M.Sc Computer Science
 
 ---
